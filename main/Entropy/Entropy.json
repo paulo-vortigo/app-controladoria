@@ -1,0 +1,106 @@
+{
+  "ComponentIndexes": {
+    "FooterComponent": 3,
+    "FooterComponentPassagensScreen": 3,
+    "TitleComponent": 2,
+    "TitleComponent_1": 2
+  },
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Arrow1": 9,
+    "ContainerFooterComponent": 4,
+    "ContainerTitleComponent": 7,
+    "FooterComponent": 3,
+    "FooterComponentPassagensScreen": 17,
+    "FooterContainerPassagensScreen": 16,
+    "HeaderContainerPassagensScreen": 13,
+    "HomeScreen": 10,
+    "Label1": 8,
+    "Label1_1": 5,
+    "MainSectionContainerPassagensScreen": 15,
+    "PassagensScreen": 11,
+    "ScreenContainerPassagensScreen": 12,
+    "TitleComponent": 6,
+    "TitleComponent_1": 14
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "01/03/2023 13:39:58",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": false,
+  "LocalResourceFileNames": {},
+  "LocalResourceRootPaths": {},
+  "OrderComponentMetadata": {
+    "8d0302db2d1041c0a4feb3c488c669a9": 1,
+    "c1e1699158dd44648b9394d4fbf90f80": 0
+  },
+  "OrderComponentTemplate": {
+    "8d0302db2d1041c0a4feb3c488c669a9": 1,
+    "c1e1699158dd44648b9394d4fbf90f80": 0
+  },
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {
+    "arrow": 2,
+    "groupContainer": 0,
+    "label": 1
+  },
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Arrow1": {},
+    "ContainerFooterComponent": {},
+    "ContainerTitleComponent": {},
+    "FooterComponent": {},
+    "FooterComponentPassagensScreen": {},
+    "FooterContainerPassagensScreen": {},
+    "HeaderContainerPassagensScreen": {},
+    "HomeScreen": {},
+    "Label1": {},
+    "Label1_1": {},
+    "MainSectionContainerPassagensScreen": {},
+    "PassagensScreen": {},
+    "ScreenContainerPassagensScreen": {},
+    "TitleComponent": {},
+    "TitleComponent_1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Arrow1": 8,
+    "ContainerFooterComponent": 9,
+    "ContainerTitleComponent": 6,
+    "FooterComponent": 0,
+    "FooterComponentPassagensScreen": 5,
+    "FooterContainerPassagensScreen": 4,
+    "HeaderContainerPassagensScreen": 1,
+    "HomeScreen": 0,
+    "Label1": 7,
+    "Label1_1": 10,
+    "MainSectionContainerPassagensScreen": 3,
+    "PassagensScreen": 0,
+    "ScreenContainerPassagensScreen": 0,
+    "TitleComponent": 0,
+    "TitleComponent_1": 2
+  },
+  "ResourcesJsonIndices": {},
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1098757,
+    "ControlCount": {
+      "8d0302db2d1041c0a4feb3c488c669a9": 2,
+      "arrow": 1,
+      "c1e1699158dd44648b9394d4fbf90f80": 2,
+      "groupContainer": 6,
+      "label": 2,
+      "screen": 2
+    },
+    "DeserializationLoadTime": 0.6049628,
+    "ErrorCount": 0
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
